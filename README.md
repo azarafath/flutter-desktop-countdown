@@ -1,4 +1,3 @@
-<!-- flutter desktop countdownapp -->
 # Countdown App
 
 # Requirements
